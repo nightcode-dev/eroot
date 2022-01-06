@@ -1,0 +1,24 @@
+{
+  "name": "eroot",
+  "version": "1.0.0",
+  "description": "a mini router to help you routing",
+  "main": "eroot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightcode-dev/eroot.git"
+  },
+  "keywords": [
+    "router",
+    "webserver",
+    "routing"
+  ],
+  "author": "nightcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightcode-dev/eroot/issues"
+  },
+  "homepage": "https://github.com/nightcode-dev/eroot#readme"
+}
